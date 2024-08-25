@@ -1,0 +1,921 @@
+[2024-08-24 20:39:21.943][DBG][Px19164][Tx47198][Logger] ----------------------------- 
+[2024-08-24 20:39:21.943][DBG][Px19164][Tx47198][Logger] MAA Process Start 
+[2024-08-24 20:39:21.943][DBG][Px19164][Tx47198][Logger] Version v1.8.9 
+[2024-08-24 20:39:21.943][DBG][Px19164][Tx47198][Logger] Built at Jul 25 2024 15:49:19 
+[2024-08-24 20:39:21.943][DBG][Px19164][Tx47198][Logger] Windows x64 
+[2024-08-24 20:39:21.943][DBG][Px19164][Tx47198][Logger] Working E:/WorkSpace/IDEA/AndroidAutoServer 
+[2024-08-24 20:39:21.943][DBG][Px19164][Tx47198][Logger] Logging E:/WorkSpace/IDEA/AndroidAutoServer/resources/debug/maa.log 
+[2024-08-24 20:39:21.943][DBG][Px19164][Tx47198][Logger] ----------------------------- 
+[2024-08-24 20:39:21.943][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L36][MaaNS::GlobalOptionMgr::set_log_dir] | leave, 1ms 
+[2024-08-24 20:39:21.943][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 1ms 
+[2024-08-24 20:39:21.943][TRC][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 19ms 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=3] [value=000001FA5CBBF550] [val_size=1] | enter 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=3] [value=000001FA5CBBF550] [val_size=1] | enter 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L82][MaaNS::GlobalOptionMgr::set_recording] | enter 
+[2024-08-24 20:39:21.944][INF][Px19164][Tx47198][GlobalOptionMgr.cpp][L91][MaaNS::GlobalOptionMgr::set_recording] Set recording [recording_=false] 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L82][MaaNS::GlobalOptionMgr::set_recording] | leave, 0ms 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=6] [value=000001FA5CBBF400] [val_size=1] | enter 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=6] [value=000001FA5CBBF400] [val_size=1] | enter 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L116][MaaNS::GlobalOptionMgr::set_debug_message] | enter 
+[2024-08-24 20:39:21.944][INF][Px19164][Tx47198][GlobalOptionMgr.cpp][L125][MaaNS::GlobalOptionMgr::set_debug_message] Set debug message [debug_message_=false] 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L116][MaaNS::GlobalOptionMgr::set_debug_message] | leave, 0ms 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=2] [value=000001FA5CBBF540] [val_size=1] | enter 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=2] [value=000001FA5CBBF540] [val_size=1] | enter 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L50][MaaNS::GlobalOptionMgr::set_save_draw] | enter 
+[2024-08-24 20:39:21.944][INF][Px19164][Tx47198][GlobalOptionMgr.cpp][L59][MaaNS::GlobalOptionMgr::set_save_draw] Set save draw [save_draw_=false] 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L50][MaaNS::GlobalOptionMgr::set_save_draw] | leave, 0ms 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=4] [value=000001FA5CBBF560] [val_size=4] | enter 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=4] [value=000001FA5CBBF560] [val_size=4] | enter 
+[2024-08-24 20:39:21.944][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L98][MaaNS::GlobalOptionMgr::set_stdout_level] | enter 
+[2024-08-24 20:39:21.944][INF][Px19164][Tx47198][GlobalOptionMgr.cpp][L107][MaaNS::GlobalOptionMgr::set_stdout_level] Set log stdout level [level=4] 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L98][MaaNS::GlobalOptionMgr::set_stdout_level] | leave, 0ms 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 20:39:21.944][TRC][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 20:39:21.945][DBG][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=5] [value=000001FA5CBBF580] [val_size=1] | enter 
+[2024-08-24 20:39:21.945][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=5] [value=000001FA5CBBF580] [val_size=1] | enter 
+[2024-08-24 20:39:21.945][DBG][Px19164][Tx47198][GlobalOptionMgr.cpp][L66][MaaNS::GlobalOptionMgr::set_show_hit_draw] | enter 
+[2024-08-24 20:39:21.945][INF][Px19164][Tx47198][GlobalOptionMgr.cpp][L75][MaaNS::GlobalOptionMgr::set_show_hit_draw] Set show_hit_draw [show_hit_draw_=false] 
+[2024-08-24 20:39:21.945][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L66][MaaNS::GlobalOptionMgr::set_show_hit_draw] | leave, 0ms 
+[2024-08-24 20:39:21.945][TRC][Px19164][Tx47198][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 20:39:21.945][TRC][Px19164][Tx47198][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 20:39:21.946][DBG][Px19164][Tx47198][MaaToolkitDevice.cpp][L38][MaaToolkitPostFindDevice] | enter 
+[2024-08-24 20:39:21.946][DBG][Px19164][Tx47198][DeviceMgr.cpp][L22][MaaNS::ToolkitNS::DeviceMgr::post_find_device] | enter 
+[2024-08-24 20:39:21.946][TRC][Px19164][Tx47198][DeviceMgr.cpp][L22][MaaNS::ToolkitNS::DeviceMgr::post_find_device] | leave, 0ms 
+[2024-08-24 20:39:21.946][TRC][Px19164][Tx47198][MaaToolkitDevice.cpp][L38][MaaToolkitPostFindDevice] | leave, 0ms 
+[2024-08-24 20:39:21.948][DBG][Px19164][Tx40438][PlatformWin32.cpp][L190][MaaNS::list_processes] Process size: 216 
+[2024-08-24 20:39:21.948][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4] 
+[2024-08-24 20:39:21.948][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=184] 
+[2024-08-24 20:39:21.948][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=684] 
+[2024-08-24 20:39:21.948][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=920] 
+[2024-08-24 20:39:21.948][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1020] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=180] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=788] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=756] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1104] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1224] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1252] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1260] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1364] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1408] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1488] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1600] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1608] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1616] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1624] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1700] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1768] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1972] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2020] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1128] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2052] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2096] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2152] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2160] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2168] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2176] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2340] 
+[2024-08-24 20:39:21.949][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2392] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2408] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2468] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2476] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2556] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2564] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2748] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2772] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2964] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3076] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3104] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3264] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3276] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3284] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3360] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3500] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3556] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3632] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3776] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4024] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4032] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4040] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4052] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4060] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4068] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4076] 
+[2024-08-24 20:39:21.950][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4084] 
+[2024-08-24 20:39:21.951][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3564] 
+[2024-08-24 20:39:21.951][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4100] 
+[2024-08-24 20:39:21.951][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4364] 
+[2024-08-24 20:39:21.951][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4004] 
+[2024-08-24 20:39:21.951][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=5544] 
+[2024-08-24 20:39:21.951][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=5728] 
+[2024-08-24 20:39:21.952][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6104] 
+[2024-08-24 20:39:21.952][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6508] 
+[2024-08-24 20:39:21.952][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6632] 
+[2024-08-24 20:39:21.952][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6700] 
+[2024-08-24 20:39:21.952][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6788] 
+[2024-08-24 20:39:21.952][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6864] 
+[2024-08-24 20:39:21.953][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=7280] 
+[2024-08-24 20:39:21.954][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=7548] 
+[2024-08-24 20:39:21.954][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=8684] 
+[2024-08-24 20:39:21.954][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=8732] 
+[2024-08-24 20:39:21.955][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10396] 
+[2024-08-24 20:39:21.956][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10816] 
+[2024-08-24 20:39:21.956][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10964] 
+[2024-08-24 20:39:21.956][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10980] 
+[2024-08-24 20:39:21.956][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=8788] 
+[2024-08-24 20:39:21.956][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=11812] 
+[2024-08-24 20:39:21.956][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=14000] 
+[2024-08-24 20:39:21.956][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=13680] 
+[2024-08-24 20:39:21.957][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1520] 
+[2024-08-24 20:39:21.957][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=12684] 
+[2024-08-24 20:39:21.958][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2212] 
+[2024-08-24 20:39:21.958][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=9684] 
+[2024-08-24 20:39:21.959][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=9720] 
+[2024-08-24 20:39:21.960][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=17512] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1332] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=19064] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=13820] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=14560] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=22336] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=22452] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=21424] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=22504] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=7408] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=14896] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=19312] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=16540] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=21584] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=15604] 
+[2024-08-24 20:39:21.961][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=21624] 
+[2024-08-24 20:39:21.962][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=17528] 
+[2024-08-24 20:39:21.962][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10880] 
+[2024-08-24 20:39:21.962][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=15584] 
+[2024-08-24 20:39:21.962][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=87] [pid=14344] 
+[2024-08-24 20:39:21.962][WRN][Px19164][Tx40438][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=87] [pid=736] 
+[2024-08-24 20:39:21.962][INF][Px19164][Tx40438][DeviceMgr.cpp][L183][MaaNS::ToolkitNS::DeviceMgr::find_emulators] [result=[]] 
+[2024-08-24 20:39:22.470][DBG][Px19164][Tx53207][Logger] ----------------------------- 
+[2024-08-24 20:39:22.478][DBG][Px19164][Tx53207][Logger] Close log 
+[2024-08-24 20:39:22.478][DBG][Px19164][Tx53207][Logger] ----------------------------- 
+[2024-08-24 21:21:40.219][DBG][Px16556][Tx4007][Logger] ----------------------------- 
+[2024-08-24 21:21:40.219][DBG][Px16556][Tx4007][Logger] MAA Process Start 
+[2024-08-24 21:21:40.219][DBG][Px16556][Tx4007][Logger] Version v1.8.9 
+[2024-08-24 21:21:40.219][DBG][Px16556][Tx4007][Logger] Built at Jul 25 2024 15:49:19 
+[2024-08-24 21:21:40.219][DBG][Px16556][Tx4007][Logger] Windows x64 
+[2024-08-24 21:21:40.219][DBG][Px16556][Tx4007][Logger] Working E:/WorkSpace/IDEA/AndroidAutoServer 
+[2024-08-24 21:21:40.219][DBG][Px16556][Tx4007][Logger] Logging E:/WorkSpace/IDEA/AndroidAutoServer/resources/debug/maa.log 
+[2024-08-24 21:21:40.219][DBG][Px16556][Tx4007][Logger] ----------------------------- 
+[2024-08-24 21:21:40.219][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L36][MaaNS::GlobalOptionMgr::set_log_dir] | leave, 1ms 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 1ms 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 12ms 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=3] [value=000001AE9D1940E0] [val_size=1] | enter 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=3] [value=000001AE9D1940E0] [val_size=1] | enter 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L82][MaaNS::GlobalOptionMgr::set_recording] | enter 
+[2024-08-24 21:21:40.220][INF][Px16556][Tx4007][GlobalOptionMgr.cpp][L91][MaaNS::GlobalOptionMgr::set_recording] Set recording [recording_=false] 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L82][MaaNS::GlobalOptionMgr::set_recording] | leave, 0ms 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=6] [value=000001AE9D194320] [val_size=1] | enter 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=6] [value=000001AE9D194320] [val_size=1] | enter 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L116][MaaNS::GlobalOptionMgr::set_debug_message] | enter 
+[2024-08-24 21:21:40.220][INF][Px16556][Tx4007][GlobalOptionMgr.cpp][L125][MaaNS::GlobalOptionMgr::set_debug_message] Set debug message [debug_message_=false] 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L116][MaaNS::GlobalOptionMgr::set_debug_message] | leave, 0ms 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=2] [value=000001AE9D194100] [val_size=1] | enter 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=2] [value=000001AE9D194100] [val_size=1] | enter 
+[2024-08-24 21:21:40.220][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L50][MaaNS::GlobalOptionMgr::set_save_draw] | enter 
+[2024-08-24 21:21:40.220][INF][Px16556][Tx4007][GlobalOptionMgr.cpp][L59][MaaNS::GlobalOptionMgr::set_save_draw] Set save draw [save_draw_=false] 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L50][MaaNS::GlobalOptionMgr::set_save_draw] | leave, 0ms 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 21:21:40.220][TRC][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 21:21:40.221][DBG][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=4] [value=000001AE9D194150] [val_size=4] | enter 
+[2024-08-24 21:21:40.221][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=4] [value=000001AE9D194150] [val_size=4] | enter 
+[2024-08-24 21:21:40.221][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L98][MaaNS::GlobalOptionMgr::set_stdout_level] | enter 
+[2024-08-24 21:21:40.221][INF][Px16556][Tx4007][GlobalOptionMgr.cpp][L107][MaaNS::GlobalOptionMgr::set_stdout_level] Set log stdout level [level=4] 
+[2024-08-24 21:21:40.221][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L98][MaaNS::GlobalOptionMgr::set_stdout_level] | leave, 0ms 
+[2024-08-24 21:21:40.221][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 21:21:40.221][TRC][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 21:21:40.221][DBG][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] [key=5] [value=000001AE9D1941C0] [val_size=1] | enter 
+[2024-08-24 21:21:40.221][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] [key=5] [value=000001AE9D1941C0] [val_size=1] | enter 
+[2024-08-24 21:21:40.221][DBG][Px16556][Tx4007][GlobalOptionMgr.cpp][L66][MaaNS::GlobalOptionMgr::set_show_hit_draw] | enter 
+[2024-08-24 21:21:40.221][INF][Px16556][Tx4007][GlobalOptionMgr.cpp][L75][MaaNS::GlobalOptionMgr::set_show_hit_draw] Set show_hit_draw [show_hit_draw_=false] 
+[2024-08-24 21:21:40.221][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L66][MaaNS::GlobalOptionMgr::set_show_hit_draw] | leave, 0ms 
+[2024-08-24 21:21:40.221][TRC][Px16556][Tx4007][GlobalOptionMgr.cpp][L13][MaaNS::GlobalOptionMgr::set_option] | leave, 0ms 
+[2024-08-24 21:21:40.221][TRC][Px16556][Tx4007][MaaUtility.cpp][L19][MaaSetGlobalOption] | leave, 0ms 
+[2024-08-24 21:21:40.222][DBG][Px16556][Tx4007][MaaToolkitDevice.cpp][L38][MaaToolkitPostFindDevice] | enter 
+[2024-08-24 21:21:40.222][DBG][Px16556][Tx4007][DeviceMgr.cpp][L22][MaaNS::ToolkitNS::DeviceMgr::post_find_device] | enter 
+[2024-08-24 21:21:40.222][TRC][Px16556][Tx4007][DeviceMgr.cpp][L22][MaaNS::ToolkitNS::DeviceMgr::post_find_device] | leave, 0ms 
+[2024-08-24 21:21:40.222][TRC][Px16556][Tx4007][MaaToolkitDevice.cpp][L38][MaaToolkitPostFindDevice] | leave, 0ms 
+[2024-08-24 21:21:40.225][DBG][Px16556][Tx27705][PlatformWin32.cpp][L190][MaaNS::list_processes] Process size: 244 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4] 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=184] 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=684] 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=920] 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1020] 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=180] 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=788] 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=756] 
+[2024-08-24 21:21:40.225][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1104] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1224] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1252] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1260] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1364] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1408] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1488] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1600] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1608] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1616] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1624] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1700] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1768] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1972] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2020] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1128] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2052] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2096] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2152] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2160] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2168] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2176] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2340] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2392] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2408] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2468] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2476] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2556] 
+[2024-08-24 21:21:40.226][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2564] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2748] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2772] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2964] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3076] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3104] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3264] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3276] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3284] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3360] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3500] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3556] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3632] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3776] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4024] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4032] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4040] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4052] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4060] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4068] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4076] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4084] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=3564] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4100] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4364] 
+[2024-08-24 21:21:40.227][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=4004] 
+[2024-08-24 21:21:40.228][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=5544] 
+[2024-08-24 21:21:40.228][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=5728] 
+[2024-08-24 21:21:40.228][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6104] 
+[2024-08-24 21:21:40.228][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6508] 
+[2024-08-24 21:21:40.228][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6632] 
+[2024-08-24 21:21:40.228][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6700] 
+[2024-08-24 21:21:40.228][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6788] 
+[2024-08-24 21:21:40.228][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=6864] 
+[2024-08-24 21:21:40.230][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=7280] 
+[2024-08-24 21:21:40.230][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=7548] 
+[2024-08-24 21:21:40.231][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=8684] 
+[2024-08-24 21:21:40.231][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=8732] 
+[2024-08-24 21:21:40.232][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10396] 
+[2024-08-24 21:21:40.233][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10816] 
+[2024-08-24 21:21:40.233][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10964] 
+[2024-08-24 21:21:40.233][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=10980] 
+[2024-08-24 21:21:40.234][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=8788] 
+[2024-08-24 21:21:40.234][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=11812] 
+[2024-08-24 21:21:40.234][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=14000] 
+[2024-08-24 21:21:40.234][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=13680] 
+[2024-08-24 21:21:40.234][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=1520] 
+[2024-08-24 21:21:40.234][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=12684] 
+[2024-08-24 21:21:40.236][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2212] 
+[2024-08-24 21:21:40.236][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=9684] 
+[2024-08-24 21:21:40.237][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=9720] 
+[2024-08-24 21:21:40.238][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=19064] 
+[2024-08-24 21:21:40.239][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=13820] 
+[2024-08-24 21:21:40.239][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=22336] 
+[2024-08-24 21:21:40.241][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=16260] 
+[2024-08-24 21:21:40.241][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=2616] 
+[2024-08-24 21:21:40.241][WRN][Px16556][Tx27705][PlatformWin32.cpp][L215][MaaNS::list_processes] Failed to EnumProcessModules [error=5] [pid=1968] 
+[2024-08-24 21:21:40.241][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=18400] 
+[2024-08-24 21:21:40.241][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=19736] 
+[2024-08-24 21:21:40.242][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=18728] 
+[2024-08-24 21:21:40.242][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=19564] 
+[2024-08-24 21:21:40.242][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=9208] 
+[2024-08-24 21:21:40.242][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=21672] 
+[2024-08-24 21:21:40.242][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=13464] 
+[2024-08-24 21:21:40.243][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=5880] 
+[2024-08-24 21:21:40.243][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=17224] 
+[2024-08-24 21:21:40.243][WRN][Px16556][Tx27705][PlatformWin32.cpp][L207][MaaNS::list_processes] Failed to OpenProcess [error=5] [pid=8272] 
+[2024-08-24 21:21:40.243][INF][Px16556][Tx27705][DeviceMgr.cpp][L183][MaaNS::ToolkitNS::DeviceMgr::find_emulators] [result=["[emulator.name=LDPlayer] [emulator.process=6164 dnplayer.exe] "]] 
+[2024-08-24 21:21:40.243][DBG][Px16556][Tx27705][DeviceMgr.cpp][L211][MaaNS::ToolkitNS::DeviceMgr::request_adb_serials] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] | enter 
+[2024-08-24 21:21:40.243][DBG][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] [libname=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/lib/MaaAdbControlUnit] | enter 
+[2024-08-24 21:21:40.243][INF][Px16556][Tx27705][LibraryHolder.h][L64][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] Loading library [libname=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/lib/MaaAdbControlUnit] 
+[2024-08-24 21:21:40.258][TRC][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] | leave, 14ms 
+[2024-08-24 21:21:40.258][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitGetVersion] | enter 
+[2024-08-24 21:21:40.258][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.258][INF][Px16556][Tx27705][ControlUnit.cpp][L23][MaaNS::check_version] class MaaNS::AdbControlUnitLibraryHolder Library version: v1.8.9 
+[2024-08-24 21:21:40.258][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitCreate] | enter 
+[2024-08-24 21:21:40.258][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.258][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitDestroy] | enter 
+[2024-08-24 21:21:40.258][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.259][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [adb_serial=] [type=0] [config={}] [agent_path=] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:40.259][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L105][MaaAdbControlUnitCreate] Unknown touch input type [touch_type=0] 
+[2024-08-24 21:21:40.259][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L146][MaaAdbControlUnitCreate] Unknown key input type [key_type=0] 
+[2024-08-24 21:21:40.259][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L209][MaaAdbControlUnitCreate] Unknown screencap type [screencap_type=0] 
+[2024-08-24 21:21:40.259][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] | leave, 1ms 
+[2024-08-24 21:21:40.259][DBG][Px16556][Tx27705][DeviceList.cpp][L22][MaaNS::CtrlUnitNs::DeviceList::request_devices] | enter 
+[2024-08-24 21:21:40.265][TRC][Px16556][Tx27705][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["devices"]] [child_.id()=4684] 
+[2024-08-24 21:21:40.291][TRC][Px16556][Tx27705][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=50] [duration=31ms] 
+[2024-08-24 21:21:40.291][TRC][Px16556][Tx27705][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+List of devices attached
+emulator-5554	device
+
+
+
+[2024-08-24 21:21:40.291][INF][Px16556][Tx27705][DeviceList.cpp][L53][MaaNS::CtrlUnitNs::DeviceList::request_devices] [devices=["emulator-5554"]] 
+[2024-08-24 21:21:40.291][TRC][Px16556][Tx27705][DeviceList.cpp][L22][MaaNS::CtrlUnitNs::DeviceList::request_devices] | leave, 31ms 
+[2024-08-24 21:21:40.291][DBG][Px16556][Tx27705][DeviceMgr.cpp][L233][MaaNS::ToolkitNS::DeviceMgr::request_adb_serials] [devices=["emulator-5554"]] 
+[2024-08-24 21:21:40.291][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] [handle=000001AE57CCB350] | enter 
+[2024-08-24 21:21:40.291][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] | leave, 0ms 
+[2024-08-24 21:21:40.291][TRC][Px16556][Tx27705][DeviceMgr.cpp][L211][MaaNS::ToolkitNS::DeviceMgr::request_adb_serials] | leave, 48ms 
+[2024-08-24 21:21:40.291][DBG][Px16556][Tx27705][DeviceMgr.cpp][L248][MaaNS::ToolkitNS::DeviceMgr::request_adb_connect] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [serial=127.0.0.1:5555] | enter 
+[2024-08-24 21:21:40.291][DBG][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] [libname=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/lib/MaaAdbControlUnit] | enter 
+[2024-08-24 21:21:40.291][DBG][Px16556][Tx27705][LibraryHolder.h][L60][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] Already loaded [ref_count_=2] 
+[2024-08-24 21:21:40.291][TRC][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] | leave, 0ms 
+[2024-08-24 21:21:40.291][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitGetVersion] | enter 
+[2024-08-24 21:21:40.291][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.291][INF][Px16556][Tx27705][ControlUnit.cpp][L23][MaaNS::check_version] class MaaNS::AdbControlUnitLibraryHolder Library version: v1.8.9 
+[2024-08-24 21:21:40.292][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitCreate] | enter 
+[2024-08-24 21:21:40.292][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.292][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitDestroy] | enter 
+[2024-08-24 21:21:40.292][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.292][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [adb_serial=127.0.0.1:5555] [type=0] [config={}] [agent_path=] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:40.292][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L105][MaaAdbControlUnitCreate] Unknown touch input type [touch_type=0] 
+[2024-08-24 21:21:40.292][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L146][MaaAdbControlUnitCreate] Unknown key input type [key_type=0] 
+[2024-08-24 21:21:40.292][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L209][MaaAdbControlUnitCreate] Unknown screencap type [screencap_type=0] 
+[2024-08-24 21:21:40.292][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] | leave, 0ms 
+[2024-08-24 21:21:40.292][DBG][Px16556][Tx27705][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | enter 
+[2024-08-24 21:21:40.297][TRC][Px16556][Tx27705][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["connect","127.0.0.1:5555"]] [child_.id()=11424] 
+[2024-08-24 21:21:40.326][TRC][Px16556][Tx27705][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=29] [duration=33ms] 
+[2024-08-24 21:21:40.326][TRC][Px16556][Tx27705][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+connected to 127.0.0.1:5555
+
+
+[2024-08-24 21:21:40.326][INF][Px16556][Tx27705][Connection.cpp][L49][MaaNS::CtrlUnitNs::Connection::connect] connected 
+[2024-08-24 21:21:40.326][TRC][Px16556][Tx27705][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | leave, 34ms 
+[2024-08-24 21:21:40.326][DBG][Px16556][Tx27705][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | enter 
+[2024-08-24 21:21:40.331][TRC][Px16556][Tx27705][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","settings get secure android_id"]] [child_.id()=15516] 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=18] [duration=61ms] 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+cbbebccb7acb3596
+
+
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | leave, 61ms 
+[2024-08-24 21:21:40.387][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.UUIDGot] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:40.387][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.ConnectSuccess] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:40.387][WRN][Px16556][Tx27705][ControlUnitMgr.cpp][L74][MaaNS::CtrlUnitNs::ControlUnitMgr::connect] screencap_ is null 
+[2024-08-24 21:21:40.387][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.ScreencapInitFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:40.387][WRN][Px16556][Tx27705][ControlUnitMgr.cpp][L87][MaaNS::CtrlUnitNs::ControlUnitMgr::connect] touch_input_ is null 
+[2024-08-24 21:21:40.387][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.TouchinputInitFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:40.387][WRN][Px16556][Tx27705][ControlUnitMgr.cpp][L100][MaaNS::CtrlUnitNs::ControlUnitMgr::connect] key_input_ is null 
+[2024-08-24 21:21:40.387][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.KeyinputInitFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:40.387][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] [handle=000001AE57CCA360] | enter 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] | leave, 0ms 
+[2024-08-24 21:21:40.387][TRC][Px16556][Tx27705][DeviceMgr.cpp][L248][MaaNS::ToolkitNS::DeviceMgr::request_adb_connect] | leave, 96ms 
+[2024-08-24 21:21:40.388][DBG][Px16556][Tx27705][DeviceMgr.cpp][L248][MaaNS::ToolkitNS::DeviceMgr::request_adb_connect] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [serial=127.0.0.1:5556] | enter 
+[2024-08-24 21:21:40.388][DBG][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] [libname=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/lib/MaaAdbControlUnit] | enter 
+[2024-08-24 21:21:40.388][DBG][Px16556][Tx27705][LibraryHolder.h][L60][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] Already loaded [ref_count_=3] 
+[2024-08-24 21:21:40.388][TRC][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] | leave, 0ms 
+[2024-08-24 21:21:40.388][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitGetVersion] | enter 
+[2024-08-24 21:21:40.388][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.388][INF][Px16556][Tx27705][ControlUnit.cpp][L23][MaaNS::check_version] class MaaNS::AdbControlUnitLibraryHolder Library version: v1.8.9 
+[2024-08-24 21:21:40.388][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitCreate] | enter 
+[2024-08-24 21:21:40.388][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.388][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitDestroy] | enter 
+[2024-08-24 21:21:40.388][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:40.388][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [adb_serial=127.0.0.1:5556] [type=0] [config={}] [agent_path=] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:40.388][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L105][MaaAdbControlUnitCreate] Unknown touch input type [touch_type=0] 
+[2024-08-24 21:21:40.388][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L146][MaaAdbControlUnitCreate] Unknown key input type [key_type=0] 
+[2024-08-24 21:21:40.388][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L209][MaaAdbControlUnitCreate] Unknown screencap type [screencap_type=0] 
+[2024-08-24 21:21:40.388][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] | leave, 0ms 
+[2024-08-24 21:21:40.388][DBG][Px16556][Tx27705][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | enter 
+[2024-08-24 21:21:40.393][TRC][Px16556][Tx27705][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["connect","127.0.0.1:5556"]] [child_.id()=21384] 
+[2024-08-24 21:21:42.423][TRC][Px16556][Tx27705][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=95] [duration=2035ms] 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+cannot connect to 127.0.0.1:5556: 由于目标计算机积极拒绝，无法连接。 (10061)
+
+
+[2024-08-24 21:21:42.424][INF][Px16556][Tx27705][Connection.cpp][L44][MaaNS::CtrlUnitNs::Connection::connect] unable to connect 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | leave, 2035ms 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.ConnectFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5556",
+    "why": "ConnectFailed"
+}] | enter 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] [handle=000001AE57CC9040] | enter 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] | leave, 0ms 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][DeviceMgr.cpp][L248][MaaNS::ToolkitNS::DeviceMgr::request_adb_connect] | leave, 2036ms 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][DeviceMgr.cpp][L248][MaaNS::ToolkitNS::DeviceMgr::request_adb_connect] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [serial=emulator-5554] | enter 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] [libname=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/lib/MaaAdbControlUnit] | enter 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][LibraryHolder.h][L60][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] Already loaded [ref_count_=4] 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] | leave, 0ms 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitGetVersion] | enter 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:42.424][INF][Px16556][Tx27705][ControlUnit.cpp][L23][MaaNS::check_version] class MaaNS::AdbControlUnitLibraryHolder Library version: v1.8.9 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitCreate] | enter 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitDestroy] | enter 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [adb_serial=emulator-5554] [type=0] [config={}] [agent_path=] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:42.424][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L105][MaaAdbControlUnitCreate] Unknown touch input type [touch_type=0] 
+[2024-08-24 21:21:42.424][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L146][MaaAdbControlUnitCreate] Unknown key input type [key_type=0] 
+[2024-08-24 21:21:42.424][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L209][MaaAdbControlUnitCreate] Unknown screencap type [screencap_type=0] 
+[2024-08-24 21:21:42.424][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] | leave, 0ms 
+[2024-08-24 21:21:42.424][DBG][Px16556][Tx27705][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | enter 
+[2024-08-24 21:21:42.429][TRC][Px16556][Tx27705][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["connect","emulator-5554"]] [child_.id()=18052] 
+[2024-08-24 21:21:45.114][TRC][Px16556][Tx27705][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=88] [duration=2689ms] 
+[2024-08-24 21:21:45.114][TRC][Px16556][Tx27705][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+cannot resolve host 'emulator-5554' and port 5555: 不知道这样的主机。 (11001)
+
+
+[2024-08-24 21:21:45.114][INF][Px16556][Tx27705][Connection.cpp][L44][MaaNS::CtrlUnitNs::Connection::connect] unable to connect 
+[2024-08-24 21:21:45.114][TRC][Px16556][Tx27705][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | leave, 2689ms 
+[2024-08-24 21:21:45.114][DBG][Px16556][Tx27705][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | enter 
+[2024-08-24 21:21:45.119][TRC][Px16556][Tx27705][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","emulator-5554","shell","settings get secure android_id"]] [child_.id()=1528] 
+[2024-08-24 21:21:45.176][TRC][Px16556][Tx27705][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=18] [duration=62ms] 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+cbbebccb7acb3596
+
+
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | leave, 62ms 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.UUIDGot] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "emulator-5554",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.ConnectSuccess] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "emulator-5554",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:45.177][WRN][Px16556][Tx27705][ControlUnitMgr.cpp][L74][MaaNS::CtrlUnitNs::ControlUnitMgr::connect] screencap_ is null 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.ScreencapInitFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "emulator-5554",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:45.177][WRN][Px16556][Tx27705][ControlUnitMgr.cpp][L87][MaaNS::CtrlUnitNs::ControlUnitMgr::connect] touch_input_ is null 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.TouchinputInitFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "emulator-5554",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:45.177][WRN][Px16556][Tx27705][ControlUnitMgr.cpp][L100][MaaNS::CtrlUnitNs::ControlUnitMgr::connect] key_input_ is null 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.KeyinputInitFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "emulator-5554",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] [handle=000001AE57CC9040] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] | leave, 0ms 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][DeviceMgr.cpp][L248][MaaNS::ToolkitNS::DeviceMgr::request_adb_connect] | leave, 2753ms 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][DeviceMgr.cpp][L248][MaaNS::ToolkitNS::DeviceMgr::request_adb_connect] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [serial=emulator-5556] | enter 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] [libname=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/lib/MaaAdbControlUnit] | enter 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][LibraryHolder.h][L60][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] Already loaded [ref_count_=5] 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] | leave, 0ms 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitGetVersion] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:45.177][INF][Px16556][Tx27705][ControlUnit.cpp][L23][MaaNS::check_version] class MaaNS::AdbControlUnitLibraryHolder Library version: v1.8.9 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitCreate] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitDestroy] | enter 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:45.177][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [adb_serial=emulator-5556] [type=0] [config={}] [agent_path=] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:45.177][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L105][MaaAdbControlUnitCreate] Unknown touch input type [touch_type=0] 
+[2024-08-24 21:21:45.177][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L146][MaaAdbControlUnitCreate] Unknown key input type [key_type=0] 
+[2024-08-24 21:21:45.177][WRN][Px16556][Tx27705][AdbControlUnitAPI.cpp][L209][MaaAdbControlUnitCreate] Unknown screencap type [screencap_type=0] 
+[2024-08-24 21:21:45.177][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] | leave, 0ms 
+[2024-08-24 21:21:45.178][DBG][Px16556][Tx27705][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | enter 
+[2024-08-24 21:21:45.181][TRC][Px16556][Tx27705][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["connect","emulator-5556"]] [child_.id()=13980] 
+[2024-08-24 21:21:47.864][TRC][Px16556][Tx27705][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=88] [duration=2686ms] 
+[2024-08-24 21:21:47.864][TRC][Px16556][Tx27705][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+cannot resolve host 'emulator-5556' and port 5555: 不知道这样的主机。 (11001)
+
+
+[2024-08-24 21:21:47.864][INF][Px16556][Tx27705][Connection.cpp][L44][MaaNS::CtrlUnitNs::Connection::connect] unable to connect 
+[2024-08-24 21:21:47.864][TRC][Px16556][Tx27705][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | leave, 2686ms 
+[2024-08-24 21:21:47.864][DBG][Px16556][Tx27705][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | enter 
+[2024-08-24 21:21:47.869][TRC][Px16556][Tx27705][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","emulator-5556","shell","settings get secure android_id"]] [child_.id()=4752] 
+[2024-08-24 21:21:47.890][WRN][Px16556][Tx27705][ChildPipeIOStream.cpp][L137][MaaNS::ChildPipeIOStream::release] child exit with 1 [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","emulator-5556","shell","settings get secure android_id"]] [child_.id()=4752] 
+[2024-08-24 21:21:47.890][TRC][Px16556][Tx27705][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=0] [duration=25ms] 
+[2024-08-24 21:21:47.890][ERR][Px16556][Tx27705][UnitBase.cpp][L65][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] child return error [argv.exec=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [argv.args=["-s","emulator-5556","shell","settings get secure android_id"]] 
+[2024-08-24 21:21:47.891][WRN][Px16556][Tx27705][ChildPipeIOStream.cpp][L137][MaaNS::ChildPipeIOStream::release] child exit with 1 [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","emulator-5556","shell","settings get secure android_id"]] [child_.id()=4752] 
+[2024-08-24 21:21:47.891][TRC][Px16556][Tx27705][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | leave, 26ms 
+[2024-08-24 21:21:47.891][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.UUIDGetFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "emulator-5556"
+}] | enter 
+[2024-08-24 21:21:47.891][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:47.891][DBG][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.ConnectFailed] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "emulator-5556",
+    "why": "UUIDGetFailed"
+}] | enter 
+[2024-08-24 21:21:47.891][TRC][Px16556][Tx27705][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:47.891][DBG][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] [handle=000001AE57CCB9B0] | enter 
+[2024-08-24 21:21:47.891][TRC][Px16556][Tx27705][AdbControlUnitAPI.cpp][L242][MaaAdbControlUnitDestroy] | leave, 0ms 
+[2024-08-24 21:21:47.891][TRC][Px16556][Tx27705][DeviceMgr.cpp][L248][MaaNS::ToolkitNS::DeviceMgr::request_adb_connect] | leave, 2713ms 
+[2024-08-24 21:21:47.987][DBG][Px16556][Tx4007][MaaController.cpp][L41][MaaAdbControllerCreateV2] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [address=127.0.0.1:5555] [type=16645886] [agent_path=E:\WorkSpace\IDEA\AndroidAutoServer\resources\maa\agent] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:47.987][DBG][Px16556][Tx4007][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] [libname=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/lib/MaaAdbControlUnit] | enter 
+[2024-08-24 21:21:47.987][INF][Px16556][Tx4007][LibraryHolder.h][L64][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] Loading library [libname=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/lib/MaaAdbControlUnit] 
+[2024-08-24 21:21:47.987][TRC][Px16556][Tx4007][LibraryHolder.h][L49][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::load_library] | leave, 0ms 
+[2024-08-24 21:21:47.987][DBG][Px16556][Tx4007][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitGetVersion] | enter 
+[2024-08-24 21:21:47.987][TRC][Px16556][Tx4007][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:47.987][INF][Px16556][Tx4007][ControlUnit.cpp][L23][MaaNS::check_version] class MaaNS::AdbControlUnitLibraryHolder Library version: v1.8.9 
+[2024-08-24 21:21:47.987][DBG][Px16556][Tx4007][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitCreate] | enter 
+[2024-08-24 21:21:47.987][TRC][Px16556][Tx4007][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:47.987][DBG][Px16556][Tx4007][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] [func_name=MaaAdbControlUnitDestroy] | enter 
+[2024-08-24 21:21:47.987][TRC][Px16556][Tx4007][LibraryHolder.h][L118][MaaNS::LibraryHolder<class MaaNS::AdbControlUnitLibraryHolder>::get_function] | leave, 0ms 
+[2024-08-24 21:21:47.987][DBG][Px16556][Tx4007][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] [adb_path=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [adb_serial=127.0.0.1:5555] [type=16645886] [config={}] [agent_path=E:\WorkSpace\IDEA\AndroidAutoServer\resources\maa\agent] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:47.987][INF][Px16556][Tx4007][AdbControlUnitAPI.cpp][L89][MaaAdbControlUnitCreate] touch_type: AutoDetect 
+[2024-08-24 21:21:47.987][INF][Px16556][Tx4007][AdbControlUnitAPI.cpp][L138][MaaAdbControlUnitCreate] key_type: AutoDetect 
+[2024-08-24 21:21:47.987][INF][Px16556][Tx4007][AdbControlUnitAPI.cpp][L204][MaaAdbControlUnitCreate] screencap_type: ScreencapFastestWay Lossless 
+[2024-08-24 21:21:47.987][INF][Px16556][Tx4007][MumuExternalRendererIpc.cpp][L20][MaaNS::CtrlUnitNs::MumuExternalRendererIpc::parse] extras.mumu.enable is false, ignore 
+[2024-08-24 21:21:47.987][TRC][Px16556][Tx4007][AdbControlUnitAPI.cpp][L41][MaaAdbControlUnitCreate] | leave, 0ms 
+[2024-08-24 21:21:47.987][DBG][Px16556][Tx4007][ControllerAgent.cpp][L18][MaaNS::ControllerNS::ControllerAgent::ControllerAgent] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:47.987][TRC][Px16556][Tx4007][ControllerAgent.cpp][L18][MaaNS::ControllerNS::ControllerAgent::ControllerAgent] | leave, 0ms 
+[2024-08-24 21:21:47.987][TRC][Px16556][Tx4007][MaaController.cpp][L41][MaaAdbControllerCreateV2] | leave, 0ms 
+[2024-08-24 21:21:47.989][DBG][Px16556][Tx64590][MaaController.cpp][L192][MaaControllerPostConnection] [ctrl=000001AE9D58F1A0] | enter 
+[2024-08-24 21:21:47.989][TRC][Px16556][Tx64590][MaaController.cpp][L192][MaaControllerPostConnection] | leave, 0ms 
+[2024-08-24 21:21:47.989][DBG][Px16556][Tx61127][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | enter 
+[2024-08-24 21:21:47.992][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","settings get secure android_id"]] [child_.id()=4704] 
+[2024-08-24 21:21:48.035][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=18] [duration=45ms] 
+[2024-08-24 21:21:48.035][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+cbbebccb7acb3596
+
+
+[2024-08-24 21:21:48.035][TRC][Px16556][Tx61127][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | leave, 45ms 
+[2024-08-24 21:21:48.035][DBG][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.Action.Started] [details={
+    "id": 1,
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:48.035][TRC][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:48.035][DBG][Px16556][Tx61127][GeneralControllerAgent.cpp][L22][MaaNS::ControllerNS::GeneralControllerAgent::_connect] | enter 
+[2024-08-24 21:21:48.035][DBG][Px16556][Tx61127][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | enter 
+[2024-08-24 21:21:48.038][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["connect","127.0.0.1:5555"]] [child_.id()=6020] 
+[2024-08-24 21:21:48.062][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=37] [duration=26ms] 
+[2024-08-24 21:21:48.062][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+already connected to 127.0.0.1:5555
+
+
+[2024-08-24 21:21:48.062][INF][Px16556][Tx61127][Connection.cpp][L49][MaaNS::CtrlUnitNs::Connection::connect] connected 
+[2024-08-24 21:21:48.062][TRC][Px16556][Tx61127][Connection.cpp][L25][MaaNS::CtrlUnitNs::Connection::connect] | leave, 27ms 
+[2024-08-24 21:21:48.062][DBG][Px16556][Tx61127][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | enter 
+[2024-08-24 21:21:48.065][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","settings get secure android_id"]] [child_.id()=19436] 
+[2024-08-24 21:21:48.122][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=18] [duration=59ms] 
+[2024-08-24 21:21:48.122][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+cbbebccb7acb3596
+
+
+[2024-08-24 21:21:48.122][TRC][Px16556][Tx61127][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | leave, 59ms 
+[2024-08-24 21:21:48.122][DBG][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.UUIDGot] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:48.122][TRC][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:48.122][DBG][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.ConnectSuccess] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:48.122][TRC][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:48.122][DBG][Px16556][Tx61127][FastestWay.cpp][L67][MaaNS::CtrlUnitNs::ScreencapFastestWay::init] | enter 
+[2024-08-24 21:21:48.122][DBG][Px16556][Tx61127][RawByNetcat.cpp][L36][MaaNS::CtrlUnitNs::ScreencapRawByNetcat::init] | enter 
+[2024-08-24 21:21:48.122][DBG][Px16556][Tx61127][RawByNetcat.cpp][L107][MaaNS::CtrlUnitNs::ScreencapRawByNetcat::request_netcat_address] | enter 
+[2024-08-24 21:21:48.126][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","cat /proc/net/arp | grep : "]] [child_.id()=8800] 
+[2024-08-24 21:21:48.166][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=158] [duration=44ms] 
+[2024-08-24 21:21:48.167][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+172.16.1.1       0x1         0x2         52:54:00:12:35:00     *        wlan0
+172.16.1.2       0x1         0x2         52:54:00:12:35:00     *        wlan0
+
+
+[2024-08-24 21:21:48.167][TRC][Px16556][Tx61127][RawByNetcat.cpp][L107][MaaNS::CtrlUnitNs::ScreencapRawByNetcat::request_netcat_address] | leave, 44ms 
+[2024-08-24 21:21:48.167][DBG][Px16556][Tx61127][SockIOStream.cpp][L10][MaaNS::ServerSockIOFactory::ServerSockIOFactory] [address=127.0.0.1] [port=0] | enter 
+[2024-08-24 21:21:48.167][TRC][Px16556][Tx61127][SockIOStream.cpp][L10][MaaNS::ServerSockIOFactory::ServerSockIOFactory] | leave, 0ms 
+[2024-08-24 21:21:48.167][TRC][Px16556][Tx61127][RawByNetcat.cpp][L36][MaaNS::CtrlUnitNs::ScreencapRawByNetcat::init] | leave, 44ms 
+[2024-08-24 21:21:48.167][DBG][Px16556][Tx61127][FastestWay.cpp][L115][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test] | enter 
+[2024-08-24 21:21:48.167][INF][Px16556][Tx61127][FastestWay.cpp][L136][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test] Testing RawByNetcat drop first 
+[2024-08-24 21:21:48.171][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","exec-out","screencap | nc -w 3 172.16.1.1 51533"]] [child_.id()=18304] 
+[2024-08-24 21:21:50.173][ERR][Px16556][Tx61127][SockIOStream.cpp][L43][MaaNS::ServerSockIOFactory::accept] accept timeout 
+[2024-08-24 21:21:50.174][ERR][Px16556][Tx61127][RawByNetcat.cpp][L85][MaaNS::CtrlUnitNs::ScreencapRawByNetcat::screencap] accept failed [argv.exec=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [argv.args=["-s","127.0.0.1:5555","exec-out","screencap | nc -w 3 172.16.1.1 51533"]] 
+[2024-08-24 21:21:50.174][WRN][Px16556][Tx61127][FastestWay.cpp][L138][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test] failed to test RawByNetcat 
+[2024-08-24 21:21:50.174][INF][Px16556][Tx61127][FastestWay.cpp][L143][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test] Testing RawWithGzip 
+[2024-08-24 21:21:50.178][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","exec-out","screencap | gzip -1"]] [child_.id()=18284] 
+[2024-08-24 21:21:50.350][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=1105737] [duration=176ms] 
+[2024-08-24 21:21:50.397][INF][Px16556][Tx61127][ScreencapHelper.cpp][L53][MaaNS::CtrlUnitNs::ScreencapHelper::process_data] end_of_line is LF 
+[2024-08-24 21:21:50.398][INF][Px16556][Tx61127][FastestWay.cpp][L126][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test::<lambda_1>::operator ()] [method=RawWithGzip] [duration=224ms] 
+[2024-08-24 21:21:50.398][INF][Px16556][Tx61127][FastestWay.cpp][L143][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test] Testing Encode 
+[2024-08-24 21:21:50.402][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","exec-out","screencap -p"]] [child_.id()=14104] 
+[2024-08-24 21:21:50.899][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=860852] [duration=500ms] 
+[2024-08-24 21:21:50.921][INF][Px16556][Tx61127][ScreencapHelper.cpp][L53][MaaNS::CtrlUnitNs::ScreencapHelper::process_data] end_of_line is LF 
+[2024-08-24 21:21:50.922][INF][Px16556][Tx61127][FastestWay.cpp][L126][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test::<lambda_1>::operator ()] [method=Encode] [duration=523ms] 
+[2024-08-24 21:21:50.922][INF][Px16556][Tx61127][FastestWay.cpp][L143][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test] Testing EncodeToFileAndPull 
+[2024-08-24 21:21:50.926][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","screencap -p > \"/data/local/tmp/2024.08.24-21.21.48.1673067\""]] [child_.id()=16120] 
+[2024-08-24 21:21:51.414][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=0] [duration=492ms] 
+[2024-08-24 21:21:51.419][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","pull","/data/local/tmp/2024.08.24-21.21.48.1673067","C:/Users/Circu/AppData/Local/Temp/2024.08.24-21.21.50.9224236"]] [child_.id()=17648] 
+[2024-08-24 21:21:51.532][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=107] [duration=117ms] 
+[2024-08-24 21:21:51.532][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+/data/local/tmp/2024.08.24-21.21.48.1673067: 1 file pulled, 0 skipped. 17.6 MB/s (860976 bytes in 0.047s)
+
+
+[2024-08-24 21:21:51.555][INF][Px16556][Tx61127][FastestWay.cpp][L126][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test::<lambda_1>::operator ()] [method=EncodeToFileAndPull] [duration=632ms] 
+[2024-08-24 21:21:51.555][INF][Px16556][Tx61127][FastestWay.cpp][L157][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test] The fastest method is RawWithGzip [cost=224ms] 
+[2024-08-24 21:21:51.555][DBG][Px16556][Tx61127][SockIOStream.cpp][L25][MaaNS::ServerSockIOFactory::~ServerSockIOFactory] | enter 
+[2024-08-24 21:21:51.555][TRC][Px16556][Tx61127][SockIOStream.cpp][L25][MaaNS::ServerSockIOFactory::~ServerSockIOFactory] | leave, 0ms 
+[2024-08-24 21:21:51.555][TRC][Px16556][Tx61127][FastestWay.cpp][L115][MaaNS::CtrlUnitNs::ScreencapFastestWay::speed_test] | leave, 3388ms 
+[2024-08-24 21:21:51.555][TRC][Px16556][Tx61127][FastestWay.cpp][L67][MaaNS::CtrlUnitNs::ScreencapFastestWay::init] | leave, 3432ms 
+[2024-08-24 21:21:51.555][DBG][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.ScreencapInited] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:51.555][TRC][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:51.555][DBG][Px16556][Tx61127][AutoDetectInput.cpp][L68][MaaNS::CtrlUnitNs::AutoDetectInput::init] | enter 
+[2024-08-24 21:21:51.555][DBG][Px16556][Tx61127][MaatouchInput.cpp][L28][MaaNS::CtrlUnitNs::MaatouchInput::init] | enter 
+[2024-08-24 21:21:51.555][TRC][Px16556][Tx61127][InvokeApp.cpp][L62][MaaNS::CtrlUnitNs::InvokeApp::init] [tempname_=2024.08.24-21.21.51.5554985] 
+[2024-08-24 21:21:51.555][DBG][Px16556][Tx61127][InvokeApp.cpp][L109][MaaNS::CtrlUnitNs::InvokeApp::push] [path=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch] | enter 
+[2024-08-24 21:21:51.559][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","push","E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch","/data/local/tmp/2024.08.24-21.21.51.5554985"]] [child_.id()=22204] 
+[2024-08-24 21:21:51.603][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=145] [duration=47ms] 
+[2024-08-24 21:21:51.603][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch: 1 file pushed, 0 skipped. 0.7 MB/s (13775 bytes in 0.018s)
+
+
+[2024-08-24 21:21:51.603][TRC][Px16556][Tx61127][InvokeApp.cpp][L109][MaaNS::CtrlUnitNs::InvokeApp::push] | leave, 48ms 
+[2024-08-24 21:21:51.603][DBG][Px16556][Tx61127][InvokeApp.cpp][L130][MaaNS::CtrlUnitNs::InvokeApp::chmod] | enter 
+[2024-08-24 21:21:51.607][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","chmod 700 \"/data/local/tmp/2024.08.24-21.21.51.5554985\""]] [child_.id()=15312] 
+[2024-08-24 21:21:51.656][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=0] [duration=52ms] 
+[2024-08-24 21:21:51.656][TRC][Px16556][Tx61127][InvokeApp.cpp][L130][MaaNS::CtrlUnitNs::InvokeApp::chmod] | leave, 52ms 
+[2024-08-24 21:21:51.656][DBG][Px16556][Tx61127][InvokeApp.cpp][L197][MaaNS::CtrlUnitNs::InvokeApp::invoke_app] [package=com.shxyke.MaaTouch.App] | enter 
+[2024-08-24 21:21:51.660][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","export CLASSPATH=\"/data/local/tmp/2024.08.24-21.21.51.5554985\"; app_process /data/local/tmp com.shxyke.MaaTouch.App"]] [child_.id()=15072] 
+[2024-08-24 21:21:51.660][TRC][Px16556][Tx61127][InvokeApp.cpp][L197][MaaNS::CtrlUnitNs::InvokeApp::invoke_app] | leave, 3ms 
+[2024-08-24 21:21:51.903][INF][Px16556][Tx61127][MtouchHelper.cpp][L29][MaaNS::CtrlUnitNs::MtouchHelper::read_info] [info= 10 1920 1080 255
+] 
+[2024-08-24 21:21:51.904][DBG][Px16556][Tx61127][DeviceInfo.cpp][L54][MaaNS::CtrlUnitNs::DeviceInfo::request_resolution] | enter 
+[2024-08-24 21:21:51.907][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","dumpsys window displays | grep DisplayFrames | grep -o -E [0-9]+"]] [child_.id()=17528] 
+[2024-08-24 21:21:51.955][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=15] [duration=51ms] 
+[2024-08-24 21:21:51.955][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+1920
+1080
+0
+
+
+[2024-08-24 21:21:51.955][TRC][Px16556][Tx61127][DeviceInfo.cpp][L54][MaaNS::CtrlUnitNs::DeviceInfo::request_resolution] | leave, 51ms 
+[2024-08-24 21:21:51.955][DBG][Px16556][Tx61127][DeviceInfo.cpp][L76][MaaNS::CtrlUnitNs::DeviceInfo::request_orientation] | enter 
+[2024-08-24 21:21:51.959][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","dumpsys input | grep SurfaceOrientation | grep -m 1 -o -E [0-9]"]] [child_.id()=20736] 
+[2024-08-24 21:21:52.001][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=3] [duration=45ms] 
+[2024-08-24 21:21:52.001][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+0
+
+
+[2024-08-24 21:21:52.001][TRC][Px16556][Tx61127][DeviceInfo.cpp][L76][MaaNS::CtrlUnitNs::DeviceInfo::request_orientation] | leave, 45ms 
+[2024-08-24 21:21:52.001][INF][Px16556][Tx61127][MtouchHelper.cpp][L50][MaaNS::CtrlUnitNs::MtouchHelper::read_info] [display_width_=1920] [display_height_=1080] [touch_width_=1920] [touch_height_=1080] [xscale_=1] [yscale_=1] [press_=255] [orientation_=0] 
+[2024-08-24 21:21:52.001][TRC][Px16556][Tx61127][MaatouchInput.cpp][L28][MaaNS::CtrlUnitNs::MaatouchInput::init] | leave, 446ms 
+[2024-08-24 21:21:52.001][DBG][Px16556][Tx61127][MaatouchInput.cpp][L28][MaaNS::CtrlUnitNs::MaatouchInput::init] | enter 
+[2024-08-24 21:21:52.001][TRC][Px16556][Tx61127][InvokeApp.cpp][L62][MaaNS::CtrlUnitNs::InvokeApp::init] [tempname_=2024.08.24-21.21.52.0018640] 
+[2024-08-24 21:21:52.001][DBG][Px16556][Tx61127][InvokeApp.cpp][L109][MaaNS::CtrlUnitNs::InvokeApp::push] [path=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch] | enter 
+[2024-08-24 21:21:52.006][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","push","E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch","/data/local/tmp/2024.08.24-21.21.52.0018640"]] [child_.id()=16668] 
+[2024-08-24 21:21:52.030][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=146] [duration=28ms] 
+[2024-08-24 21:21:52.030][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch: 1 file pushed, 0 skipped. 85.0 MB/s (13775 bytes in 0.000s)
+
+
+[2024-08-24 21:21:52.030][TRC][Px16556][Tx61127][InvokeApp.cpp][L109][MaaNS::CtrlUnitNs::InvokeApp::push] | leave, 28ms 
+[2024-08-24 21:21:52.030][DBG][Px16556][Tx61127][InvokeApp.cpp][L130][MaaNS::CtrlUnitNs::InvokeApp::chmod] | enter 
+[2024-08-24 21:21:52.034][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","chmod 700 \"/data/local/tmp/2024.08.24-21.21.52.0018640\""]] [child_.id()=22408] 
+[2024-08-24 21:21:52.080][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=0] [duration=50ms] 
+[2024-08-24 21:21:52.080][TRC][Px16556][Tx61127][InvokeApp.cpp][L130][MaaNS::CtrlUnitNs::InvokeApp::chmod] | leave, 50ms 
+[2024-08-24 21:21:52.080][DBG][Px16556][Tx61127][InvokeApp.cpp][L197][MaaNS::CtrlUnitNs::InvokeApp::invoke_app] [package=com.shxyke.MaaTouch.App] | enter 
+[2024-08-24 21:21:52.085][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","export CLASSPATH=\"/data/local/tmp/2024.08.24-21.21.52.0018640\"; app_process /data/local/tmp com.shxyke.MaaTouch.App"]] [child_.id()=12272] 
+[2024-08-24 21:21:52.085][TRC][Px16556][Tx61127][InvokeApp.cpp][L197][MaaNS::CtrlUnitNs::InvokeApp::invoke_app] | leave, 4ms 
+[2024-08-24 21:21:52.185][WRN][Px16556][Tx61127][ChildPipeIOStream.cpp][L137][MaaNS::ChildPipeIOStream::release] child exit with 259 [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","export CLASSPATH=\"/data/local/tmp/2024.08.24-21.21.51.5554985\"; app_process /data/local/tmp com.shxyke.MaaTouch.App"]] [child_.id()=15072] 
+[2024-08-24 21:21:52.209][INF][Px16556][Tx61127][MtouchHelper.cpp][L29][MaaNS::CtrlUnitNs::MtouchHelper::read_info] [info= 10 1920 1080 255
+] 
+[2024-08-24 21:21:52.209][DBG][Px16556][Tx61127][DeviceInfo.cpp][L54][MaaNS::CtrlUnitNs::DeviceInfo::request_resolution] | enter 
+[2024-08-24 21:21:52.212][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","dumpsys window displays | grep DisplayFrames | grep -o -E [0-9]+"]] [child_.id()=16136] 
+[2024-08-24 21:21:52.276][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=15] [duration=66ms] 
+[2024-08-24 21:21:52.276][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+1920
+1080
+0
+
+
+[2024-08-24 21:21:52.276][TRC][Px16556][Tx61127][DeviceInfo.cpp][L54][MaaNS::CtrlUnitNs::DeviceInfo::request_resolution] | leave, 66ms 
+[2024-08-24 21:21:52.276][DBG][Px16556][Tx61127][DeviceInfo.cpp][L76][MaaNS::CtrlUnitNs::DeviceInfo::request_orientation] | enter 
+[2024-08-24 21:21:52.279][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","dumpsys input | grep SurfaceOrientation | grep -m 1 -o -E [0-9]"]] [child_.id()=19220] 
+[2024-08-24 21:21:52.321][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=3] [duration=44ms] 
+[2024-08-24 21:21:52.321][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+0
+
+
+[2024-08-24 21:21:52.321][TRC][Px16556][Tx61127][DeviceInfo.cpp][L76][MaaNS::CtrlUnitNs::DeviceInfo::request_orientation] | leave, 45ms 
+[2024-08-24 21:21:52.321][INF][Px16556][Tx61127][MtouchHelper.cpp][L50][MaaNS::CtrlUnitNs::MtouchHelper::read_info] [display_width_=1920] [display_height_=1080] [touch_width_=1920] [touch_height_=1080] [xscale_=1] [yscale_=1] [press_=255] [orientation_=0] 
+[2024-08-24 21:21:52.321][TRC][Px16556][Tx61127][MaatouchInput.cpp][L28][MaaNS::CtrlUnitNs::MaatouchInput::init] | leave, 319ms 
+[2024-08-24 21:21:52.321][TRC][Px16556][Tx61127][AutoDetectInput.cpp][L68][MaaNS::CtrlUnitNs::AutoDetectInput::init] | leave, 766ms 
+[2024-08-24 21:21:52.321][DBG][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.TouchinputInited] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:52.321][TRC][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:52.321][DBG][Px16556][Tx61127][AutoDetectInput.cpp][L68][MaaNS::CtrlUnitNs::AutoDetectInput::init] | enter 
+[2024-08-24 21:21:52.321][DBG][Px16556][Tx61127][MaatouchInput.cpp][L28][MaaNS::CtrlUnitNs::MaatouchInput::init] | enter 
+[2024-08-24 21:21:52.321][TRC][Px16556][Tx61127][InvokeApp.cpp][L62][MaaNS::CtrlUnitNs::InvokeApp::init] [tempname_=2024.08.24-21.21.52.3217062] 
+[2024-08-24 21:21:52.321][DBG][Px16556][Tx61127][InvokeApp.cpp][L109][MaaNS::CtrlUnitNs::InvokeApp::push] [path=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch] | enter 
+[2024-08-24 21:21:52.326][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","push","E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch","/data/local/tmp/2024.08.24-21.21.52.3217062"]] [child_.id()=16780] 
+[2024-08-24 21:21:52.352][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=146] [duration=30ms] 
+[2024-08-24 21:21:52.352][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch: 1 file pushed, 0 skipped. 77.0 MB/s (13775 bytes in 0.000s)
+
+
+[2024-08-24 21:21:52.352][TRC][Px16556][Tx61127][InvokeApp.cpp][L109][MaaNS::CtrlUnitNs::InvokeApp::push] | leave, 30ms 
+[2024-08-24 21:21:52.352][DBG][Px16556][Tx61127][InvokeApp.cpp][L130][MaaNS::CtrlUnitNs::InvokeApp::chmod] | enter 
+[2024-08-24 21:21:52.356][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","chmod 700 \"/data/local/tmp/2024.08.24-21.21.52.3217062\""]] [child_.id()=18276] 
+[2024-08-24 21:21:52.406][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=0] [duration=54ms] 
+[2024-08-24 21:21:52.406][TRC][Px16556][Tx61127][InvokeApp.cpp][L130][MaaNS::CtrlUnitNs::InvokeApp::chmod] | leave, 54ms 
+[2024-08-24 21:21:52.406][DBG][Px16556][Tx61127][InvokeApp.cpp][L197][MaaNS::CtrlUnitNs::InvokeApp::invoke_app] [package=com.shxyke.MaaTouch.App] | enter 
+[2024-08-24 21:21:52.410][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","export CLASSPATH=\"/data/local/tmp/2024.08.24-21.21.52.3217062\"; app_process /data/local/tmp com.shxyke.MaaTouch.App"]] [child_.id()=3708] 
+[2024-08-24 21:21:52.411][TRC][Px16556][Tx61127][InvokeApp.cpp][L197][MaaNS::CtrlUnitNs::InvokeApp::invoke_app] | leave, 4ms 
+[2024-08-24 21:21:52.511][WRN][Px16556][Tx61127][ChildPipeIOStream.cpp][L137][MaaNS::ChildPipeIOStream::release] child exit with 259 [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","export CLASSPATH=\"/data/local/tmp/2024.08.24-21.21.52.0018640\"; app_process /data/local/tmp com.shxyke.MaaTouch.App"]] [child_.id()=12272] 
+[2024-08-24 21:21:52.512][INF][Px16556][Tx61127][MtouchHelper.cpp][L29][MaaNS::CtrlUnitNs::MtouchHelper::read_info] [info= 10 1920 1080 255
+] 
+[2024-08-24 21:21:52.512][DBG][Px16556][Tx61127][DeviceInfo.cpp][L54][MaaNS::CtrlUnitNs::DeviceInfo::request_resolution] | enter 
+[2024-08-24 21:21:52.516][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","dumpsys window displays | grep DisplayFrames | grep -o -E [0-9]+"]] [child_.id()=19288] 
+[2024-08-24 21:21:52.586][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=15] [duration=73ms] 
+[2024-08-24 21:21:52.586][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+1920
+1080
+0
+
+
+[2024-08-24 21:21:52.586][TRC][Px16556][Tx61127][DeviceInfo.cpp][L54][MaaNS::CtrlUnitNs::DeviceInfo::request_resolution] | leave, 73ms 
+[2024-08-24 21:21:52.586][DBG][Px16556][Tx61127][DeviceInfo.cpp][L76][MaaNS::CtrlUnitNs::DeviceInfo::request_orientation] | enter 
+[2024-08-24 21:21:52.589][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","dumpsys input | grep SurfaceOrientation | grep -m 1 -o -E [0-9]"]] [child_.id()=14108] 
+[2024-08-24 21:21:52.635][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=3] [duration=48ms] 
+[2024-08-24 21:21:52.635][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+0
+
+
+[2024-08-24 21:21:52.635][TRC][Px16556][Tx61127][DeviceInfo.cpp][L76][MaaNS::CtrlUnitNs::DeviceInfo::request_orientation] | leave, 48ms 
+[2024-08-24 21:21:52.635][INF][Px16556][Tx61127][MtouchHelper.cpp][L50][MaaNS::CtrlUnitNs::MtouchHelper::read_info] [display_width_=1920] [display_height_=1080] [touch_width_=1920] [touch_height_=1080] [xscale_=1] [yscale_=1] [press_=255] [orientation_=0] 
+[2024-08-24 21:21:52.635][TRC][Px16556][Tx61127][MaatouchInput.cpp][L28][MaaNS::CtrlUnitNs::MaatouchInput::init] | leave, 313ms 
+[2024-08-24 21:21:52.635][DBG][Px16556][Tx61127][MaatouchInput.cpp][L28][MaaNS::CtrlUnitNs::MaatouchInput::init] | enter 
+[2024-08-24 21:21:52.635][TRC][Px16556][Tx61127][InvokeApp.cpp][L62][MaaNS::CtrlUnitNs::InvokeApp::init] [tempname_=2024.08.24-21.21.52.6355193] 
+[2024-08-24 21:21:52.635][DBG][Px16556][Tx61127][InvokeApp.cpp][L109][MaaNS::CtrlUnitNs::InvokeApp::push] [path=E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch] | enter 
+[2024-08-24 21:21:52.639][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","push","E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch","/data/local/tmp/2024.08.24-21.21.52.6355193"]] [child_.id()=22084] 
+[2024-08-24 21:21:52.666][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=146] [duration=31ms] 
+[2024-08-24 21:21:52.667][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+E:/WorkSpace/IDEA/AndroidAutoServer/resources/maa/agent/maatouch/universal/maatouch: 1 file pushed, 0 skipped. 73.0 MB/s (13775 bytes in 0.000s)
+
+
+[2024-08-24 21:21:52.667][TRC][Px16556][Tx61127][InvokeApp.cpp][L109][MaaNS::CtrlUnitNs::InvokeApp::push] | leave, 31ms 
+[2024-08-24 21:21:52.667][DBG][Px16556][Tx61127][InvokeApp.cpp][L130][MaaNS::CtrlUnitNs::InvokeApp::chmod] | enter 
+[2024-08-24 21:21:52.671][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","chmod 700 \"/data/local/tmp/2024.08.24-21.21.52.6355193\""]] [child_.id()=5704] 
+[2024-08-24 21:21:52.723][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=0] [duration=55ms] 
+[2024-08-24 21:21:52.723][TRC][Px16556][Tx61127][InvokeApp.cpp][L130][MaaNS::CtrlUnitNs::InvokeApp::chmod] | leave, 56ms 
+[2024-08-24 21:21:52.723][DBG][Px16556][Tx61127][InvokeApp.cpp][L197][MaaNS::CtrlUnitNs::InvokeApp::invoke_app] [package=com.shxyke.MaaTouch.App] | enter 
+[2024-08-24 21:21:52.726][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","export CLASSPATH=\"/data/local/tmp/2024.08.24-21.21.52.6355193\"; app_process /data/local/tmp com.shxyke.MaaTouch.App"]] [child_.id()=15192] 
+[2024-08-24 21:21:52.726][TRC][Px16556][Tx61127][InvokeApp.cpp][L197][MaaNS::CtrlUnitNs::InvokeApp::invoke_app] | leave, 3ms 
+[2024-08-24 21:21:52.827][WRN][Px16556][Tx61127][ChildPipeIOStream.cpp][L137][MaaNS::ChildPipeIOStream::release] child exit with 259 [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","export CLASSPATH=\"/data/local/tmp/2024.08.24-21.21.52.3217062\"; app_process /data/local/tmp com.shxyke.MaaTouch.App"]] [child_.id()=3708] 
+[2024-08-24 21:21:52.845][INF][Px16556][Tx61127][MtouchHelper.cpp][L29][MaaNS::CtrlUnitNs::MtouchHelper::read_info] [info= 10 1920 1080 255
+] 
+[2024-08-24 21:21:52.845][DBG][Px16556][Tx61127][DeviceInfo.cpp][L54][MaaNS::CtrlUnitNs::DeviceInfo::request_resolution] | enter 
+[2024-08-24 21:21:52.848][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","dumpsys window displays | grep DisplayFrames | grep -o -E [0-9]+"]] [child_.id()=19776] 
+[2024-08-24 21:21:52.905][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=15] [duration=59ms] 
+[2024-08-24 21:21:52.905][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+1920
+1080
+0
+
+
+[2024-08-24 21:21:52.905][TRC][Px16556][Tx61127][DeviceInfo.cpp][L54][MaaNS::CtrlUnitNs::DeviceInfo::request_resolution] | leave, 60ms 
+[2024-08-24 21:21:52.905][DBG][Px16556][Tx61127][DeviceInfo.cpp][L76][MaaNS::CtrlUnitNs::DeviceInfo::request_orientation] | enter 
+[2024-08-24 21:21:52.909][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","dumpsys input | grep SurfaceOrientation | grep -m 1 -o -E [0-9]"]] [child_.id()=21492] 
+[2024-08-24 21:21:52.938][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=3] [duration=32ms] 
+[2024-08-24 21:21:52.938][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+0
+
+
+[2024-08-24 21:21:52.938][TRC][Px16556][Tx61127][DeviceInfo.cpp][L76][MaaNS::CtrlUnitNs::DeviceInfo::request_orientation] | leave, 32ms 
+[2024-08-24 21:21:52.938][INF][Px16556][Tx61127][MtouchHelper.cpp][L50][MaaNS::CtrlUnitNs::MtouchHelper::read_info] [display_width_=1920] [display_height_=1080] [touch_width_=1920] [touch_height_=1080] [xscale_=1] [yscale_=1] [press_=255] [orientation_=0] 
+[2024-08-24 21:21:52.938][TRC][Px16556][Tx61127][MaatouchInput.cpp][L28][MaaNS::CtrlUnitNs::MaatouchInput::init] | leave, 303ms 
+[2024-08-24 21:21:52.938][TRC][Px16556][Tx61127][AutoDetectInput.cpp][L68][MaaNS::CtrlUnitNs::AutoDetectInput::init] | leave, 617ms 
+[2024-08-24 21:21:52.938][DBG][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.KeyinputInited] [details={
+    "adb": "F:/Simulator/Leidian/LDPlayerVK/adb.exe",
+    "address": "127.0.0.1:5555",
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:52.939][TRC][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:52.939][TRC][Px16556][Tx61127][GeneralControllerAgent.cpp][L22][MaaNS::ControllerNS::GeneralControllerAgent::_connect] | leave, 4903ms 
+[2024-08-24 21:21:52.939][DBG][Px16556][Tx61127][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | enter 
+[2024-08-24 21:21:52.942][TRC][Px16556][Tx61127][ChildPipeIOStream.cpp][L100][MaaNS::ChildPipeIOStream::ChildPipeIOStream] [exec_=F:/Simulator/Leidian/LDPlayerVK/adb.exe] [args_=["-s","127.0.0.1:5555","shell","settings get secure android_id"]] [child_.id()=19304] 
+[2024-08-24 21:21:52.988][TRC][Px16556][Tx61127][UnitBase.cpp][L59][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] [output.size()=18] [duration=49ms] 
+[2024-08-24 21:21:52.988][TRC][Px16556][Tx61127][UnitBase.cpp][L61][MaaNS::CtrlUnitNs::UnitBase::startup_and_read_pipe] output:
+cbbebccb7acb3596
+
+
+[2024-08-24 21:21:52.988][TRC][Px16556][Tx61127][DeviceInfo.cpp][L34][MaaNS::CtrlUnitNs::DeviceInfo::request_uuid] | leave, 49ms 
+[2024-08-24 21:21:52.988][DBG][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Controller.Action.Completed] [details={
+    "id": 1,
+    "uuid": "cbbebccb7acb3596"
+}] | enter 
+[2024-08-24 21:21:52.988][TRC][Px16556][Tx61127][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:52.990][DBG][Px16556][Tx4007][MaaResource.cpp][L13][MaaResourceCreate] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx4007][ResourceMgr.cpp][L14][MaaNS::ResourceNS::ResourceMgr::ResourceMgr] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:53.006][TRC][Px16556][Tx4007][ResourceMgr.cpp][L14][MaaNS::ResourceNS::ResourceMgr::ResourceMgr] | leave, 0ms 
+[2024-08-24 21:21:53.006][TRC][Px16556][Tx4007][MaaResource.cpp][L13][MaaResourceCreate] | leave, 16ms 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx4007][MaaResource.cpp][L32][MaaResourcePostPath] [res=000001AE57AED6E0] [path=./resource] | enter 
+[2024-08-24 21:21:53.006][INF][Px16556][Tx4007][ResourceMgr.cpp][L40][MaaNS::ResourceNS::ResourceMgr::post_path] [path=./resource] 
+[2024-08-24 21:21:53.006][TRC][Px16556][Tx4007][MaaResource.cpp][L32][MaaResourcePostPath] | leave, 0ms 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx5159][ResourceMgr.cpp][L170][MaaNS::ResourceNS::ResourceMgr::run_load] [id=1] [path=./resource] | enter 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx5159][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Resource.StartLoading] [details={
+    "id": 1,
+    "path": "./resource"
+}] | enter 
+[2024-08-24 21:21:53.006][TRC][Px16556][Tx5159][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx5159][ResourceMgr.cpp][L191][MaaNS::ResourceNS::ResourceMgr::load] [path=./resource] | enter 
+[2024-08-24 21:21:53.006][INF][Px16556][Tx5159][ResourceMgr.cpp][L196][MaaNS::ResourceNS::ResourceMgr::load] [props=null] 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx5159][PipelineResMgr.cpp][L13][MaaNS::ResourceNS::PipelineResMgr::load] [path=./resource/pipeline] [is_base=false] | enter 
+[2024-08-24 21:21:53.006][ERR][Px16556][Tx5159][PipelineResMgr.cpp][L57][MaaNS::ResourceNS::PipelineResMgr::load_all_json] path not exists 
+[2024-08-24 21:21:53.006][ERR][Px16556][Tx5159][PipelineResMgr.cpp][L22][MaaNS::ResourceNS::PipelineResMgr::load] load_all_json failed [path=./resource/pipeline] 
+[2024-08-24 21:21:53.006][TRC][Px16556][Tx5159][PipelineResMgr.cpp][L13][MaaNS::ResourceNS::PipelineResMgr::load] | leave, 0ms 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx5159][OCRResMgr.cpp][L20][MaaNS::ResourceNS::OCRResMgr::lazy_load] [path=./resource/model/ocr] [is_base=false] | enter 
+[2024-08-24 21:21:53.006][TRC][Px16556][Tx5159][OCRResMgr.cpp][L20][MaaNS::ResourceNS::OCRResMgr::lazy_load] | leave, 0ms 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx5159][ONNXResMgr.cpp][L13][MaaNS::ResourceNS::ONNXResMgr::lazy_load] [path=./resource/model] [is_base=false] | enter 
+[2024-08-24 21:21:53.006][TRC][Px16556][Tx5159][ONNXResMgr.cpp][L13][MaaNS::ResourceNS::ONNXResMgr::lazy_load] | leave, 0ms 
+[2024-08-24 21:21:53.006][DBG][Px16556][Tx5159][TemplateResMgr.cpp][L10][MaaNS::ResourceNS::TemplateResMgr::lazy_load] [path=./resource/image] [is_base=false] | enter 
+[2024-08-24 21:21:53.006][TRC][Px16556][Tx5159][TemplateResMgr.cpp][L10][MaaNS::ResourceNS::TemplateResMgr::lazy_load] | leave, 0ms 
+[2024-08-24 21:21:53.006][INF][Px16556][Tx5159][ResourceMgr.cpp][L209][MaaNS::ResourceNS::ResourceMgr::load] [path=./resource] [ret=false] 
+[2024-08-24 21:21:53.007][TRC][Px16556][Tx5159][ResourceMgr.cpp][L191][MaaNS::ResourceNS::ResourceMgr::load] | leave, 0ms 
+[2024-08-24 21:21:53.007][ERR][Px16556][Tx5159][ResourceMgr.cpp][L103][MaaNS::ResourceNS::ResourceMgr::get_hash] path not exists or not a directory [p=./resource] 
+[2024-08-24 21:21:53.007][INF][Px16556][Tx5159][ResourceMgr.cpp][L120][MaaNS::ResourceNS::ResourceMgr::get_hash] [hash_cache_=0] 
+[2024-08-24 21:21:53.007][DBG][Px16556][Tx5159][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] [callback_=0000000000000000] [callback_arg_=0000000000000000] [msg=Resource.LoadingFailed] [details={
+    "hash": "0",
+    "id": 1,
+    "path": "./resource"
+}] | enter 
+[2024-08-24 21:21:53.007][TRC][Px16556][Tx5159][Utils/MessageNotifier.hpp][L23][MaaNS::MessageNotifier<void (__cdecl*)(char const *,char const *,void *),void *>::notify] | leave, 0ms 
+[2024-08-24 21:21:53.007][TRC][Px16556][Tx5159][ResourceMgr.cpp][L170][MaaNS::ResourceNS::ResourceMgr::run_load] | leave, 0ms 
+[2024-08-24 21:21:53.008][DBG][Px16556][Tx4007][MaaInstance.cpp][L8][MaaCreate] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:53.008][DBG][Px16556][Tx4007][InstanceMgr.cpp][L15][MaaNS::InstanceMgr::InstanceMgr] [callback=0000000000000000] [callback_arg=0000000000000000] | enter 
+[2024-08-24 21:21:53.008][TRC][Px16556][Tx4007][InstanceMgr.cpp][L15][MaaNS::InstanceMgr::InstanceMgr] | leave, 0ms 
+[2024-08-24 21:21:53.008][TRC][Px16556][Tx4007][MaaInstance.cpp][L8][MaaCreate] | leave, 0ms 
+[2024-08-24 21:21:53.008][DBG][Px16556][Tx4007][MaaInstance.cpp][L43][MaaBindResource] [inst=000001AE9D439240] [res=000001AE57AED6E0] | enter 
+[2024-08-24 21:21:53.008][INF][Px16556][Tx4007][InstanceMgr.cpp][L32][MaaNS::InstanceMgr::bind_resource] [this=000001AE9D439240] [resource=000001AE57AED6E0] 
+[2024-08-24 21:21:53.008][TRC][Px16556][Tx4007][MaaInstance.cpp][L43][MaaBindResource] | leave, 0ms 
+[2024-08-24 21:21:53.008][DBG][Px16556][Tx4007][MaaInstance.cpp][L55][MaaBindController] [inst=000001AE9D439240] [ctrl=000001AE9D58F1A0] | enter 
+[2024-08-24 21:21:53.008][INF][Px16556][Tx4007][InstanceMgr.cpp][L45][MaaNS::InstanceMgr::bind_controller] [this=000001AE9D439240] [controller=000001AE9D58F1A0] 
+[2024-08-24 21:21:53.008][TRC][Px16556][Tx4007][MaaInstance.cpp][L55][MaaBindController] | leave, 0ms 
+[2024-08-24 22:33:17.209][DBG][Px16556][Tx53015][Logger] ----------------------------- 
+[2024-08-24 22:33:17.215][DBG][Px16556][Tx53015][Logger] Close log 
+[2024-08-24 22:33:17.215][DBG][Px16556][Tx53015][Logger] ----------------------------- 
